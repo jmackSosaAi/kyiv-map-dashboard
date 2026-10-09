@@ -1,0 +1,34 @@
+name,category,address,lat,lng,neighborhood,priceLevel,priority,notes,safetyNotes,website,menuUrl,eventsUrl,instagramUrl,googleMapsUrl,visited,wantToVisit
+Dnipro River Cocktail Cruise,event,"Poshtova Square pier, Kyiv, Ukraine",50.4640,30.5197,Podil,$$,3,Evening sightseeing boat with cocktails — boats depart from Poshtova Square pier in Podil,,,,,,,false,true
+Dnipro Yacht Rental (Bimba),event,"Dnipro River, Kyiv, Ukraine",50.4612,30.5238,Podil,$$$,2,Yacht / boat rental — book via bimba.rent,,https://bimba.rent,,,,,false,true
+Dnipro Yacht Rental (Dniprotrip),event,"Dnipro River, Kyiv, Ukraine",50.4612,30.5238,Podil,$$$,2,Alternative yacht rental — dniprotrip.com,,https://dniprotrip.com,,,,,false,true
+Opera Hotel Cigar Lounge,bar,"Opera Hotel, Bohdana Khmelnytskoho St 53, Kyiv, Ukraine",50.4474,30.5066,Shevchenko,$$$,3,Cigar lounge inside the Opera Hotel (5-star),,,,,,,false,true
+b-hush Rooftop Lounge Bar,bar,"b-hush, 11 Mirrors Design Hotel, Bohdana Khmelnytskoho St 11A, Kyiv, Ukraine",50.4477,30.5183,Shevchenko,$$$,4,Rooftop cocktail bar at 11 Mirrors Design Hotel — known for sunset views,,,,,,,false,true
+Kyiv National Circus,theater,"Peremohy Square 2, Kyiv, Ukraine",50.4521,30.5052,Shevchenko,$$,3,National Circus on Victory Square,,,,,,,false,true
+National Museum of Folk Architecture (Pyrohiv),other,"Pyrohivskyi Shliakh, Kyiv 03026, Ukraine",50.3528,30.5089,Holosiivskyi,$,3,Open-air folk architecture & life museum — large park south of city,,,,,,,false,true
+National Philharmonic of Ukraine,theater,"Volodymyrskyi Descent 2, Kyiv, Ukraine",50.4524,30.5274,Pechersk,$$,4,Classical concerts and orchestra at the base of European Square,,,,,,,false,true
+Olympic National Stadium (NSC Olimpiyskiy),event,"Velyka Vasylkivska St 55, Kyiv, Ukraine",50.4334,30.5217,Pechersk,$$,3,Football matches and major events (main national stadium),,,,,,,false,true
+Namelaka,cafe,"Namelaka, Kyiv, Ukraine",,,,$$,3,Cafe / pastry — search for current location,,,,,,,false,true
+Rebernya Na Uzvozi,restaurant,"Andriivskyi Descent 16, Kyiv, Ukraine",50.4595,30.5168,Podil,$$,3,Ribs / Ukrainian — on the famous Andriivskyi Descent near Kanapa,,,,,,,false,true
+Beef Meat and Wine,restaurant,"Beef Meat and Wine, Kyiv, Ukraine",,,,$$$,4,Steakhouse — multiple Kyiv locations; geocode for nearest,,,,,,,false,true
+Vino e Cucina,restaurant,"Vino e Cucina, Kyiv, Ukraine",,,,$$$,3,Italian — geocode to find current address,,,,,,,false,true
+Mirali,restaurant,"Mirali, Kyiv, Ukraine",,,,$$$,3,Modern Mediterranean — geocode for address,,,,,,,false,true
+Praha,restaurant,"Praha Restaurant, Kyiv, Ukraine",,,,$$,3,Czech-themed cuisine,,,,,,,false,true
+Comme Il Faut,restaurant,"Comme Il Faut, Kyiv, Ukraine",,,,$$$,3,French / European,,,,,,,false,true
+Graine de Moutarde,restaurant,"Graine de Moutarde, Kyiv, Ukraine",,,,$$$,3,French — Pechersk neighborhood,,,,,,,false,true
+Fabius,restaurant,"Fabius, Kyiv, Ukraine",,,,$$$,3,Italian,,,,,,,false,true
+Leo Restaurant,restaurant,"Leo Restaurant, Kyiv, Ukraine",,,,$$$,3,Italian — Pechersk,,,,,,,false,true
+Catch,restaurant,"Catch, Kyiv, Ukraine",,,,$$$,3,Seafood,,,,,,,false,true
+Avalon,restaurant,"Avalon, Kyiv, Ukraine",,,,$$$,3,Restaurant / lounge,,,,,,,false,true
+Veranda on the River,restaurant,"Veranda na Dnipri, Naberezhna-Khreshchatytska St, Kyiv, Ukraine",50.4711,30.5247,Podil,$$$,3,Riverside dining along the Dnipro embankment,,,,,,,false,true
+Dom No. 10,restaurant,"Dom No. 10, Kyiv, Ukraine",,,,$$$,3,Hidden restaurant — geocode for address,,,,,,,false,true
+Dellini,restaurant,"Dellini, Kyiv, Ukraine",,,,$$$,3,Italian,,,,,,,false,true
+Parkovyi Congress Center,other,"Parkova Doroha 16A, Kyiv, Ukraine",50.4358,30.5439,Pechersk,,2,Conference / event venue on the Dnipro slopes,,,,,,,false,false
+Regent Hill,other,"Regent Hill, Kyiv, Ukraine",,,,,2,Venue / area — geocode to confirm,,,,,,,false,false
+InterContinental Kyiv,other,"InterContinental Kyiv, Velyka Zhytomyrska St 2A, Kyiv, Ukraine",50.4576,30.5189,Shevchenko,$$$$,3,5-star hotel next to St. Michael's Golden-Domed Monastery,,https://kyiv.intercontinental.com,,,,,false,false
+Maidan Nezalezhnosti,event,"Maidan Nezalezhnosti, Kyiv, Ukraine",50.4501,30.5234,Shevchenko,,4,Independence Square — primary site for Independence Day & Statehood Day events,,,,,,,false,true
+Blockbuster Mall / Atlas Festival,event,"Stepana Bandery Ave 36V, Kyiv, Ukraine",50.5125,30.4978,Obolon,,3,Atlas Festival venue (July 17–19),,,,,,,false,true
+Koncha-Zaspa,trip,"Koncha-Zaspa, Kyiv Oblast, Ukraine",50.3289,30.6189,Koncha-Zaspa,,2,Wealthy riverside countryside retreat south of Kyiv,,,,,,,false,true
+Carpathians,trip,"Bukovel, Ivano-Frankivsk Oblast, Ukraine",48.3645,24.4017,Carpathians,,3,Multi-day mountain trip — anchor at Bukovel ski/summer resort area,,,,,,,false,true
+Synevyr,trip,"Lake Synevyr, Zakarpattia Oblast, Ukraine",48.6217,23.6892,Synevyr,,2,Highest lake in the Ukrainian Carpathians — alpine setting,,,,,,,false,true
+Zakarpattia,trip,"Uzhhorod, Zakarpattia Oblast, Ukraine",48.6208,22.2879,Zakarpattia,,2,Western region near Hungary/Slovakia — anchor at Uzhhorod (regional capital),,,,,,,false,true
