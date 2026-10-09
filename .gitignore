@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+
+# Note: src/data/kyivSeedEnriched.csv is intentionally NOT ignored --
+# it is the committed output of scripts/enrich-kyiv-places.mjs.
+.vercel
