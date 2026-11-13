@@ -183,8 +183,3 @@ Android handles installation automatically via an install banner (the `beforeins
 ## License
 
 MIT © 2026 Jackson Mackney
-
----
-
-## Credits
-
