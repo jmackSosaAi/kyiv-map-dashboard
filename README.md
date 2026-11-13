@@ -188,4 +188,3 @@ MIT © 2026 Jackson Mackney
 
 ## Credits
 
-Built with [Claude Code](https://claude.ai/claude-code), Anthropic.

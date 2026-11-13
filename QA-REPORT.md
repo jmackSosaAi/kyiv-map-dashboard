@@ -1,6 +1,6 @@
 # QA Report — Kyiv Map Dashboard Smoke Test
 
-_Date: 2026-05-20 | Branch: feature/qa-pass | Tester: Claude Code (automated)_
+_Date: 2026-05-20 | Branch: feature/qa-pass_
 _API key: NOT set (VITE_GOOGLE_MAPS_API_KEY absent — all Google-backed features untestable)_
 
 ---

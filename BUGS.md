@@ -1,6 +1,6 @@
 # Bug Report — Kyiv Map Dashboard QA Pass
 
-_Date: 2026-05-20 | Tester: Claude Code (automated smoke test) | Branch: feature/qa-pass_
+_Date: 2026-05-20 | Branch: feature/qa-pass_
 
 ---
 
